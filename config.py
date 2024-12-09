@@ -1,2 +1,2 @@
-TOKEN = ""
-API_KEY=""
+TOKEN = "MTMxNTU2MDk0MTg1MjgyMzU3Mg.GrrwDP.y1CXdEaVhX0qlPmfHlo_Fp7MF5Cers-LDexcbc"
+API_KEY="05442282-48a6-4cb5-bbfc-3a1ba97ff0cc"
